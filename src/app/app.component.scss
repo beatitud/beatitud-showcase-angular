@@ -9,8 +9,8 @@
 app-top-bar {
   height: 64px;
   width: 100%;
-  background: $blue-grey;
   overflow: hidden;
+  z-index: 2;
 }
 
 .sub-container {

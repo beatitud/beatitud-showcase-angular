@@ -17,7 +17,7 @@ export class TopBarComponent implements OnInit {
     {
       iconClass: "material-icons",
       iconElement: "",
-      linkTo: "/data/readings",
+      linkTo: "/data",
       label: "data"
     },
     {
